@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiss455&label=Profile%20views&color=0e75b6&style=flat" alt="alexiss455" /> </p>
 
-- 🔭 I’m currently develop on <a href="https://graphiscore.cyclic.app/">Graphiscore</a>
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working <a href="https://graphiscore.cyclic.app/">Graphiscore</a>
+- 🌱 I’m currently learning **ReactJs**
 - 📫 How to reach me **alexissmanalas@gmail.com**
 - 👨‍💻 All of my projects are available at []()
 <h3 align="left">Connect with me:</h3>
