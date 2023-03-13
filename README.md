@@ -1,16 +1,16 @@
+<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mgph3juig7kooclffg3oiipr3y1mmrhy5bf5aclv&rid=giphy.gif&ct=g" width="100%" height="500" >
+
 <h1 align="center">Hi 👋, I'm Alexiess Manalastas</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiss455&label=Profile%20views&color=0e75b6&style=flat" alt="alexiss455" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexiss455" alt="alexiss455" /></a> </p>
 
 - 🔭 I’m currently working on [Graphicsore](https://outrageous-lime-bell-bottoms.cyclic.app/)
 
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **alexissmanalas@gmail.com**
-
+- 👨‍💻 All of my projects are available at []()
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/alexiess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/alexiess" height="30" width="40" /></a>
