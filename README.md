@@ -1,4 +1,4 @@
-<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mgph3juig7kooclffg3oiipr3y1mmrhy5bf5aclv&rid=giphy.gif&ct=g" width="100%" height="500" >
+<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47mgph3juig7kooclffg3oiipr3y1mmrhy5bf5aclv&rid=giphy.gif&ct=g">
 
 <h1 align="center">Hi 👋, I'm Alexiess Manalastas</h1>
 <h3 align="center">A passionate frontend developer</h3>
