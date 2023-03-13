@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiss455&label=Profile%20views&color=0e75b6&style=flat" alt="alexiss455" /> </p>
 
-- 🔭 I’m currently working on [Graphicsore](https://outrageous-lime-bell-bottoms.cyclic.app/)
+- 🔭 I’m currently working on [Graphicsore](https://graphiscore.cyclic.app/)
 
 - 🌱 I’m currently learning **React**
 
