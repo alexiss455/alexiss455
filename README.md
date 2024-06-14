@@ -1,13 +1,6 @@
-<h1>Hi 👋, I'm Alexiess Manalastas</h1>
-<h3>A passionate frontend developer</h3>
-
-<p>Free and open source software (FOSS): This refers to software that is both free to use and open source, meaning that the source code is publicly available and can be modified and distributed by anyone.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiss455&label=Profile%20views&color=0e75b6&style=flat" alt="alexiss455" /> </p>
-
 - 🔭 I’m currently working at <a href="https://pisopay.com.ph">Pisopay.com.ph</a>
-- 🌱 I’m currently learning **ReactJs**
 - 📫 How to reach me **alexissmanalas@gmail.com**
-- 👨‍💻 All of my projects are available at https://alexiess.vercel.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/alexiess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/alexiess" height="30" width="40" /></a>
