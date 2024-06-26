@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexiss455&label=Profile%20views&color=0e75b6&style=flat" alt="alexiss455" /> </p>
-- 🔭 I’m currently working at <a href="https://pisopay.com.ph">Pisopay.com.ph</a>
 - 📫 How to reach me **alexissmanalas@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
